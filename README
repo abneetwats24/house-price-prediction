@@ -1,0 +1,16 @@
+<h1>Linear Regression with Single and Multiple Feature</h1>
+House Price Prediction implemented in octave/matlab application
+	data:ex1data2.txt
+City Truck profit prediction implemented in octave/matlab
+	data:ex1data1.txt
+
+main file to run: ex1.m - 'City Truck profit prediction'(single feature)
+		: ex1_multi.m - 'House Price prediction'(multiple features)
+
+function included:
+	->ploting data
+	->feature normalization
+	->cost computation
+	->gradient decent
+	->normal equation
+	
